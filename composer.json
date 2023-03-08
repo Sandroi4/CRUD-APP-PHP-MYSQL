@@ -1,0 +1,14 @@
+{
+    "authors": [
+        {
+            "name": "Sandro jashiashvili",
+            "email": "jashiashvili@Outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
